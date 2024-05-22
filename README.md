@@ -6,7 +6,7 @@ The PFAUST benchmark is a dataset created for evaluating partial shape correspon
 ![PFAUST_image](assets/pfaust.png)
 
 ## Dataset Creation
-Each shape in the FAUST dataset was processed by selecting \( m \) vertices at random, and removing all other vertices within a geodesic radius \( r \) around each selected vertex. Only the largest connected component was retained, ensuring the remaining has one connecting component.
+Each shape in the FAUST dataset was processed by selecting \( m \) vertices at random, and removing all other vertices within a geodesic radius \( r \) around each selected vertex. Only the largest connected component was retained, ensuring the remaining shape has one connecting component.
 
 ## Datasets
 ### PFAUST-M
