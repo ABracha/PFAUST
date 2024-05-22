@@ -35,16 +35,7 @@ The 10 full shapes used in this benchmark are not included in the repository. Us
         journal={arXiv preprint arXiv:2310.14692},
         year={2023}
         }</code></pre>
-        <pre><code>@Article{ren2018continuous,
-        title={Continuous and orientation-preserving correspondences via functional maps},
-        author={Ren, Jing and Poulenard, Adrien and Wonka, Peter and Ovsjanikov, Maks},
-        journal={ACM Transactions on Graphics (ToG)},
-        volume={37},
-        number={6},
-        pages={1--16},
-        year={2018},
-        publisher={ACM New York, NY, USA}
-        }</code></pre>
+        
   </div>
 </section>
 
